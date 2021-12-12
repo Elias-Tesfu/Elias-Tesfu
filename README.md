@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elias-Tesfu
 - 👀 I’m interested in Programming, Solving problems
 - 🌱 I’m currently learning Vue.js, Django and Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me @Elias_Tesfu
 
 <!---
